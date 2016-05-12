@@ -5,6 +5,8 @@ _Welcome to the AECC's First Weekly programing challenge, the first of many we h
 
 To complete this challenge you are required to learn a little bit of the Functional Language know as Haskell.
 
+**Learn You a Haskell for Great Good!**
+
 For begginers: 
 * For this challenge you must create a function that when given a non-empty list returns the sum of its values.
 
